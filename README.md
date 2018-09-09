@@ -1,2 +1,2 @@
 # Codewar-funs
-Some challenges i solved in Codewar 
+Some challenges i solved in [Codewars](https://www.codewars.com/) 
